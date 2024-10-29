@@ -14,9 +14,10 @@
 </a>
 </div>
 
+<img width="936" alt="ComfyUI_MIxdq" src="https://github.com/user-attachments/assets/057244e6-177d-4c8a-96f1-a97c5a4f5dfa">
 
 ### News
-
+- [24/10] Integration of model quantization projects into the ComfyUI ecosystem of plug-in projects with version 1.0.0, supporting instant prompt to photo workflow.
 - [24/08] We release the CUDA kernels for MixDQ hardware acceleration, please check out [./kernels/README.md](./kernels/README.md)
 - [24/07] MixDQ is accepted by [ECCV2024](https://eccv2024.ecva.net/).
 - [24/05] We release the MixDQ hardware acceleration pipline (with INT8 GPU kernel) at [https://huggingface.co/nics-efc/MixDQ](https://huggingface.co/nics-efc/MixDQ).
